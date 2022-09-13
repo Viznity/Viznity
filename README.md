@@ -11,6 +11,8 @@
     NSFW Game Developer
     <br />
 	<br />
+	<a href="https://viznitygames.com">🌐 Website</a>
+    ·
 	<a href="https://patreon.com/Viznity">💰 Support the Developer</a>
     ·
 	<a href="https://viznity.itch.io">🎮 Download Games</a>
@@ -20,7 +22,7 @@
 - 🌸 Hi, I’m <a href="https://twitter.com/Viznity">@Viznity</a>
 - 💻 I’m currently developing +18 games
 - 💜 I’m looking to collaborate on NSFW artists
-- 📧 Contact: viznity@gmail.com
+- 📧 Contact: contact@viznitygames.com
 
   </p>
 </p>
