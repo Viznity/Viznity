@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://viznitygames.com/images/home/Viznity%20Logo.png" alt="Viznity Games Logo" width="300" height="auto">
+<img src="https://viznitygames.com/images/home/viznity_colored_full.webp" alt="Viznity Games Logo" width="300" height="auto">
 
 ![Viznity Games Banner](https://img.shields.io/badge/Viznity%20Games-Gaming%20Platform-BD0F94?style=for-the-badge&logo=gamepad&logoColor=white)
 
